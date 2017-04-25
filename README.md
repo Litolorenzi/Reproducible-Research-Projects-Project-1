@@ -4,13 +4,15 @@
 Carlos Lorenzi
 2017/04
 
-###About This was the first project for the Reproducible Research course in Coursera's Data Science specialization track. The purpose of the project was to answer a series of questions using data collected from a FitBit.
+### About 
+This was the first project for the Reproducible Research course in Coursera's Data Science specialization track. The purpose of the project was to answer a series of questions using data collected from a FitBit.
 
-##Synopsis The purpose of this project was to practice:
+### Synopsis 
+The purpose of this project was to practice:
 
-loading and preprocessing data
-imputing missing values
-interpreting data to answer research questions
+1 - loading and preprocessing data
+2 - Inputing missing values
+3 - Interpreting data to answer research questions
 
 ## Data
 
