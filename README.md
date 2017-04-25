@@ -48,6 +48,8 @@ steps_by_day <- aggregate(steps ~ date, data, sum)
 hist(steps_by_day$steps, main = paste("Total Steps Each Day"), col="blue", xlab="Number of Steps")
 plot of chunk unnamed-chunk-2
 
+https://github.com/Litolorenzi/Reproducible-Research-Projects-Project-1/blob/master/Reproducible_Research_Project_1_Steps_files/Figures-html/unnamed-chunk-2.png
+
 rmean <- mean(steps_by_day$steps)
 rmedian <- median(steps_by_day$steps)
 The mean is 1.0766 × 104 and the median is 10765.
